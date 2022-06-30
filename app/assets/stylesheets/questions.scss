@@ -1,0 +1,32 @@
+.container {
+  margin: 0 auto;
+  max-width: 400px;
+}
+
+h1 {
+  margin: 10px 0;
+}
+
+.user_q, .coach_answer {
+  background-color: rgb(240, 240, 240);
+  margin: 15px 0;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 4px;
+  box-shadow: 2px 2px 8px rgb(230, 230, 230);
+}
+
+p, h4 {
+  margin: 10px 0 0 0;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 15px;
+}
+button, input {
+  padding: 5px 8px;
+  border-radius: 4px;
+  box-shadow: 2px 2px 8px rgb(230, 230, 230);
+}
